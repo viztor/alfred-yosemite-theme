@@ -5,7 +5,7 @@
 	<key>background</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAYNS/n8/g27/fz+DMzMzP4Y=
+	ZmZmAYNS/n8/g27/fz+DzcxMP4Y=
 	</data>
 	<key>border</key>
 	<data>
@@ -40,10 +40,10 @@
 	<key>resultSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg9za2j6D3NraPoPc2to+AYY=
+	ZmZmg1yQ6T6DXJDpPoNckOk+g2ZmZj+G
 	</data>
 	<key>resultSubtextFont</key>
-	<string>Lucida Grande</string>
+	<string>Helvetica</string>
 	<key>resultSubtextFontSize</key>
 	<integer>0</integer>
 	<key>resultTextColor</key>
@@ -52,13 +52,13 @@
 	ZmZmg7KQrj2DspCuPYOykK49gwAAAD+G
 	</data>
 	<key>resultTextFont</key>
-	<string>Lucida Grande</string>
+	<string>Helvetica</string>
 	<key>resultTextFontSize</key>
 	<integer>2</integer>
 	<key>scrollbarColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBg83MTD6G
+	ZmZmAQEBg2ZmJj+G
 	</data>
 	<key>searchBackgroundColor</key>
 	<data>
@@ -66,7 +66,7 @@
 	ZmZmg6yRgz2DqpCDPYM8kYM9AIY=
 	</data>
 	<key>searchFont</key>
-	<string>Lucida Grande</string>
+	<string>Helvetica</string>
 	<key>searchFontSize</key>
 	<integer>2</integer>
 	<key>searchForegroundColor</key>
@@ -97,9 +97,9 @@
 	ZmZmg8giIj+DyCIiP4PIIiI/AIY=
 	</data>
 	<key>shortcutFont</key>
-	<string>Lucida Grande</string>
+	<string>Helvetica</string>
 	<key>shortcutFontSize</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>shortcutSelectedColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
